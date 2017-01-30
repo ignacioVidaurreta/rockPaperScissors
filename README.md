@@ -1,1 +1,3 @@
 # rockPaperScissors
+
+Práctica de Python 
